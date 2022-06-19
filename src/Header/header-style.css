@@ -1,0 +1,19 @@
+
+
+.header {
+    background-color: #F55A5A;
+    color: white;
+    text-align: center;
+    height: 55px;
+}
+.header-intro {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+.header-intro > img {
+    margin-right: 7px;
+}
+
+
+
